@@ -2,5 +2,5 @@
 welcome to our public Github repository.
 
 # 🙋‍♀️ Introduction
-This repository is brought for you from the IC Academy, a member of the samlinux development group based in Austria.
+This repository is brought to you from the IC Academy, a member of the samlinux development group based in Austria.
 
