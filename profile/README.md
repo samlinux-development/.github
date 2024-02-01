@@ -1,6 +1,6 @@
 ## Hi there 👋
-welcome to our public Github repository.
+Welcome to our public Github repository.
 
 # 🙋‍♀️ Introduction
-This repository is brought to you from the IC Academy, a member of the samlinux development group based in Austria.
+This repository is brought to you from the IC Academy, a member of the samlinux development group (SDG) based in Austria.
 
