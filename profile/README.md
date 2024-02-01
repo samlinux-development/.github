@@ -1,12 +1,24 @@
 ## Hi there 👋
+welcome to our public Github repository.
 
-<!--
+# 🙋‍♀️ Introduction
+This repository is brought for you from the IC Academy, a member of the samlinux development group based in Austria.
 
-**Here are some ideas to get you started:**
+# 👩‍💻 Examples
+Below is a short overview of the examples we provide so far.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ic-sveltekit
+This repository can be used as a starter template for SvelteKit projects on the Internet Computer.   
+[Check it out if you like to start with SvelteKit.](https://github.com/samlinux-development/ic-sveltekit)
+
+## ic-svelte
+This repository can be used as a starter template for Svelte projects on the Internet Computer.   
+[Check it out if you like to start with Svelte.](https://github.com/samlinux-development/ic-svelte)
+
+## ic-astro-svelte
+This repository can be used as a starter template for Astro projects including Svelte components to communicate with Internet Computer canisters.
+[Check it out if you like to start with this project.](https://github.com/samlinux-development/ic-astro-svelte)
+
+## c-02
+This repository is a support material for our course: Master Deployments of Static Websites on the Internet Computer
+[Check it out if you like to use this project.](https://github.com/samlinux-development/c-02)
