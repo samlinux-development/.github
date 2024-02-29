@@ -11,6 +11,7 @@ This repository is brought to you from the IC Academy, a member of the samlinux 
 
 # Starter Kits
 
+- [ic-solidjs](https://github.com/samlinux-development/ic-solidjs) - A SolidJS starter for the Internet Computer.
 - [ic-vercel-sveltekit-2](https://github.com/samlinux-development/ic-vercel-sveltekit-2) - A sveltekit starter for a VERCEL project with SSR.
 - [ic-angular](https://github.com/samlinux-development/ic-angular) - A starterkit for Angular on the Internet Computer.
 - [ic-alpinejs](https://github.com/samlinux-development/ic-alpinejs) - An IC Alpine.js starter kit with minimal frontend code to access an Internet Computer backend canister.
