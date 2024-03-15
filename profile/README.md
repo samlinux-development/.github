@@ -23,4 +23,4 @@ This repository is brought to you from the IC Academy, a member of the samlinux 
 - [Master Deployments of Static Websites on the Internet Computer](https://github.com/samlinux-development/c-02) - Demo project: Master Deployments of Static Websites on the Internet Computer.
 
 # CodeLabs
-- [codeLab-01](https://github.com/samlinux-development/codeLab-01) - How to Work with Result Types.
+- [codeLab-01](https://github.com/samlinux-development/codeLab-01) - How to work with Motoko's Result variant type.
