@@ -24,3 +24,4 @@ This repository is brought to you from the IC Academy, a member of the samlinux 
 
 # CodeLabs
 - [codeLab-01](https://github.com/samlinux-development/codeLab-01) - How to work with Motoko's Result variant type.
+- [Internet Identity for Svelte and SolidJS](https://github.com/samlinux-development/vc) - A comparison of how Internet Identity can be integrated with Svelte and SolidJs frontend applications.
