@@ -27,5 +27,5 @@ This repository is brought to you from the IC Academy, a member of the samlinux 
 - [Internet Identity for Svelte and SolidJS](https://github.com/samlinux-development/vc) - A comparison of how Internet Identity can be integrated with Svelte and SolidJs frontend applications.
 
 # Open Internet Summer (OIS) 2024 contribution
-- [vc]([https://github.com/samlinux-development/codeLab-01](https://github.com/samlinux-development/vc)) - How to integrate Internet Identity with Svelte or SolidJs and make an authenticated call.
-- [Recycle]([https://github.com/samlinux-development/vc](https://github.com/samlinux-development/recycle)) - How to find canisters based on a given controller principal ID.
+- [vc](https://github.com/samlinux-development/vc) - How to integrate Internet Identity with Svelte or SolidJs and make an authenticated call.
+- [recycle](https://github.com/samlinux-development/recycle) - How to find canisters based on a given controller principal ID.
