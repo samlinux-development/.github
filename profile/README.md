@@ -17,7 +17,8 @@ This repository is brought to you from the IC Academy, a member of the samlinux 
 - [ic-alpinejs](https://github.com/samlinux-development/ic-alpinejs) - An IC Alpine.js starter kit with minimal frontend code to access an Internet Computer backend canister.
 - [ic-astro-svelte](https://github.com/samlinux-development/ic-astro-svelte) - This is a starter dapp for the Internet Computer built with Astro and Svelte.
 - [ic-svelte](https://github.com/samlinux-development/ic-svelte) - This template is intended to make it easier for you to get started with development with the Internet Computer, Svelte, TypeScript and Vite.
-- [ic-svelteKit](https://github.com/samlinux-development/ic-sveltekit) - A sveltekit starter template 2024 edition.
+- [ic-svelteKit](https://github.com/samlinux-development/ic-sveltekit) - A Sveltekit starter template 2024 edition.
+- [ic-svelteKit-starter](https://github.com/samlinux-development/ic-sveltekit-starter) - IC SvelteKit (import.meta.env) Starter
 
 # Course Support Material
 - [Master Deployments of Static Websites on the Internet Computer](https://github.com/samlinux-development/c-02) - Demo project: Master Deployments of Static Websites on the Internet Computer.
