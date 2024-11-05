@@ -23,8 +23,9 @@ This repository is brought to you from the IC Academy, a member of the samlinux 
 # Course Support Material
 - [Master Deployments of Static Websites on the Internet Computer](https://github.com/samlinux-development/c-02) - Demo project: Master Deployments of Static Websites on the Internet Computer.
 
-## Application Development Skills for the Internet Computer
-- [Github Codespace Motoko Starter](https://codespaces.new/samlinux/appDev-motoko) - Github Codespace Motoko Starter - ready to use 
+## Course - Application Development Skills for the Internet Computer
+- [Github Codespace Motoko Starter](https://codespaces.new/samlinux/appDev-motoko) - Github Codespace Motoko Starter - ready to use
+- [StarterKit](https://github.com/samlinux/appDev-motoko) - StarterKit
 
 # CodeLabs
 - [codeLab-01](https://github.com/samlinux-development/codeLab-01) - How to work with Motoko's Result variant type.
