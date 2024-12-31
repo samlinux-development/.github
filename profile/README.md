@@ -19,6 +19,7 @@ This repository is brought to you from the IC Academy, a member of the samlinux 
 - [ic-svelte](https://github.com/samlinux-development/ic-svelte) - This template is intended to make it easier for you to get started with development with the Internet Computer, Svelte, TypeScript and Vite.
 - [ic-svelteKit](https://github.com/samlinux-development/ic-sveltekit) - A SvelteKit starter template 2024 edition.
 - [ic-svelteKit-starter](https://github.com/samlinux-development/ic-sveltekit-starter) - IC SvelteKit (import.meta.env) Starter
+- [ic-nuxt](https://github.com/samlinux-development/ic-nuxt) - IC Nuxt Starter
 
 # Course Support Material
 - [Master Deployments of Static Websites on the Internet Computer](https://github.com/samlinux-development/c-02) - Demo project: Master Deployments of Static Websites on the Internet Computer.
