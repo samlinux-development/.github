@@ -35,3 +35,6 @@ This repository is brought to you from the IC Academy, a member of the samlinux 
 # Open Internet Summer (OIS) 2024 contribution
 - [vc](https://github.com/samlinux-development/vc) - How to integrate Internet Identity with Svelte or SolidJs and make an authenticated call.
 - [recycle](https://github.com/samlinux-development/recycle) - How to find canisters based on a given controller principal ID.
+
+# Public Development
+- [BeProActive](https://github.com/samlinux-development/beProActive) - Fitness tracking made for everyone
